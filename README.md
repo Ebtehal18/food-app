@@ -14,7 +14,7 @@ A responsive food menu application built using **React** and **Tailwind CSS**. T
 
 ## Live Version 🌐
 You can try the live version of the app here:  
-[**Food App Live Version**](#) *(https://food-app-xi-eight.vercel.app/)*
+[**Food App Live Version**](#https://food-app-xi-eight.vercel.app/) 
 
 ---
 
