@@ -18,11 +18,11 @@ function filterByPrice(price){
   return <div className='max-w-screen-xl mx-auto p-4 py-12'>
     <h2 className='text-orange-600 font-bold text-center text-[40px]'>Top Related Menu Items</h2>
     {/* filter row */}
-    <div className='flex flex-col lg:flex-row lg:justify-between flex-wrap'>
+    <div className='flex flex-col lg:flex-row lg:justify-between '>
         {/* type */}
         <div>
             <p className='text-gray-700 font-bold'>Filter Type</p>
-            <div className='flex justify-between'>
+            <div className='flex justify-between flex-wrap'>
                 <button onClick={()=>setFood(data)} className='border-orange-600 hover:bg-orange-600 hover:text-white m-1 transition-all duration-300 text-orange-600'>All</button>
                 <button onClick={()=>filterByType('burger')} className='border-orange-600 hover:bg-orange-600 hover:text-white m-1 transition-all duration-300 text-orange-600'>Burgers</button>
                 <button onClick={()=>filterByType('pizza')} className='border-orange-600 hover:bg-orange-600 hover:text-white m-1 transition-all duration-300 text-orange-600'>Pizza</button>
