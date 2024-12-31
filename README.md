@@ -11,10 +11,9 @@ A responsive food menu application built using **React** and **Tailwind CSS**. T
 - **Toggle View**: Users can toggle specific views or options for an enhanced browsing experience.
 
 
-
 ## Live Version 🌐
 You can try the live version of the app here:  
-[**Food App Live Version**](#https://food-app-xi-eight.vercel.app/) 
+[**Food App Live Version**](#) *(https://food-app-xi-eight.vercel.app/)*
 
 ---
 
